@@ -1,4 +1,4 @@
-# Multi-Function Web Security Tool (Milestone 1)
+# Multi-Function Web Security Tool 
 
 A simple Tkinter-based security tool that demonstrates Week 1–3 concepts:
 password strength assessment, secure password generation + hashing, and web form input validation/sanitization.
