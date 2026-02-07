@@ -62,3 +62,10 @@ Install dependencies (recommended in a virtual environment):
 ```bash
 py -m pip install -r requirements.txt
 ```
+# How to Run (Desktop GUI)
+
+```bash
+python app.py
+
+# Run Flask app(Web app)
+py web_app.py
